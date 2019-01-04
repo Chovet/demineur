@@ -340,4 +340,51 @@ html body{
 		height: 25px;
 	}
 
-/****  MESSAGE  ****/
+/****  TUTORIEL  ****/
+
+	.right{
+		float: right;
+   		color: #fff;
+    		margin-right: 20px;
+	}
+
+	.bombe{
+  		width: 25px;
+    		height: 25px;
+	}
+
+	.drapeau{
+		width: 30px;
+    		height: 25px;
+	}
+
+	.left{
+		display: block;
+		margin-top: 35px;
+		margin-left: 70px;
+		width: 400px;
+		height: 500px;
+    		text-align: center;
+    		border: 1px solid grey;
+    		box-shadow: 1px 1px 12px #aaa;
+    		border-radius: 10px;
+    		min-height: 55vh;
+    		background-color: rgba(255, 255, 255, 0.7);
+    		overflow: hidden;
+	}
+
+	.ex{
+		margin-top: 25px;
+		width: 300px;
+		height: 300px;
+	}
+
+	.indication{
+		width: 100px;
+		height: 100px;
+	}
+
+	.fin{
+		color: #fff;
+		margin-top: 50px;
+	}
